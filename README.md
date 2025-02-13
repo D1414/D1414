@@ -1,4 +1,8 @@
 ## Hi there 👋
+- I'm a computer science student from germany
+- i love programming
+- tsoding is the best
+
 
 <!--
 **D1414/D1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
